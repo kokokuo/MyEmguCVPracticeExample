@@ -13,7 +13,11 @@ This is my emgucv practice project
 
 	[Show how to calculate histogram using DenseHitogram class](http://www.dotblogs.com.tw/v6610688/archive/2013/12/21/emgucv_calculate_histogram_by_densehistogram.aspx)
 
-3. Hello_Draw_Color_Histogram_by_cvinvoke_method zip
+3. HelloSaveAndReadHistogram zip
+	
+	[Show how to save and read hitogram data](http://www.dotblogs.com.tw/v6610688/archive/2013/12/25/emgucv_save_load_histogram_by_serialization.aspx)
+
+4. Hello_Draw_Color_Histogram_by_cvinvoke_method zip
 
 	[show how to draw color histogram(hue and h-s hitogram) by using cvinvoke method ](http://www.dotblogs.com.tw/v6610688/archive/2014/02/06/emgucv_draw_histogram_color_histogram.aspx) 
 
