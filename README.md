@@ -23,7 +23,7 @@ This is my emgucv practice project
 
 5. MEPGShowForTestForm zip 
 	
-	[This is a query video and show slice of the video by picturebox](github.com/yi-cheng-kuo/MyEmguCVPracticeExample/blob/master/MPEGShowForTestForm.zip?raw=true)
+	This is a query video and show slice of the video by picturebox
 
 	
 	
